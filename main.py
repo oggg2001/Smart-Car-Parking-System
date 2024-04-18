@@ -12,8 +12,8 @@ import machine
 led = machine.Pin("LED", machine.Pin.OUT)
 led.on()
 
-wifi_ssid = "OG"
-wifi_password = "100020009"
+wifi_ssid = "ssid name"
+wifi_password = "wifi password"
 max_cars = 4
         
 def exit_Car(user,card_id):

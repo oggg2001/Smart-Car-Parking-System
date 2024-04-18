@@ -2,8 +2,8 @@ import urequests as requests
 from rfid import read_rfid
 import utime
 
-firebase_database_url = "https://ogproject-afe3e-default-rtdb.europe-west1.firebasedatabase.app/"
-private_key_path = "FUvHIJfTncqyqOgXtEt8Mk87nvKJPlu3OM5bdCmH"
+firebase_database_url = "firebase_url"
+private_key_path = "private key"
 
 # Connect to Wi-Fi
 
